@@ -2,7 +2,7 @@
 
 Rust developer building low-latency trading software and Solana programs, and MSc student in Computer Science (AI track) at the University of Pisa. BSc in Computer Science completed. Available for hire.
 
-[LinkedIn](https://www.linkedin.com/in/gabriele-marsili-b63a8b213/)
+[Website](https://whoismars.github.io) · [LinkedIn](https://www.linkedin.com/in/gabriele-marsili-b63a8b213/)
 
 ## Main work
 
