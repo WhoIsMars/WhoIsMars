@@ -1,6 +1,6 @@
 # Gabriele Marsili
 
-Rust developer building low-latency trading software and Solana programs, and MSc student in Computer Science (AI track) at the University of Pisa. BSc in Computer Science completed. Available for hire.
+Building Octech and Shizuka, trading software in Rust on Solana, and studying for an MSc in Computer Science (AI track) at the University of Pisa, after a BSc in Computer Science there.
 
 [Website](https://whoismars.github.io) · [LinkedIn](https://www.linkedin.com/in/gabriele-marsili-b63a8b213/)
 
