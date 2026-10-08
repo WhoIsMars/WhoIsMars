@@ -1,8 +1,9 @@
 # Gabriele Marsili
 
-Building Octech and Shizuka, trading software in Rust on Solana, and studying for an MSc in Computer Science (AI track) at the University of Pisa, after a BSc in Computer Science there.
+Technical partner at Octech and builder of Shizuka: trading software in Rust on Solana and Polymarket.
+Studying for an MSc in Computer Science (AI track) at the University of Pisa, after a BSc in Computer Science there.
 
-[Website](https://whoismars.github.io) · [LinkedIn](https://www.linkedin.com/in/gabriele-marsili-b63a8b213/)
+[Website](https://whoismars.github.io) · [LinkedIn](https://www.linkedin.com/in/gabriele-marsili/)
 
 ## Main work
 
